@@ -141,7 +141,7 @@ ethers.umd.min.js ethers.js 5.7.2 (add this yourself; see Install)
 
 ## Reporting issues
 
-Please report bugs and security concerns to: [your email or GitHub issues link]. For security issues, avoid posting details publicly until they're fixed.
+Please report bugs and security concerns to: [DM on X: https://x.com/fishacrypt] or [https://github.com/fishacrypt]. For security issues, avoid posting details publicly until they're fixed.
 
 ## License
 
